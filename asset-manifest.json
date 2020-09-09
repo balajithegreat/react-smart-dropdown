@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-smart-dropdown/static/js/main.ba213562.chunk.js",
+    "main.js.map": "/react-smart-dropdown/static/js/main.ba213562.chunk.js.map",
+    "runtime-main.js": "/react-smart-dropdown/static/js/runtime-main.135da360.js",
+    "runtime-main.js.map": "/react-smart-dropdown/static/js/runtime-main.135da360.js.map",
+    "static/js/2.43608e7c.chunk.js": "/react-smart-dropdown/static/js/2.43608e7c.chunk.js",
+    "static/js/2.43608e7c.chunk.js.map": "/react-smart-dropdown/static/js/2.43608e7c.chunk.js.map",
+    "index.html": "/react-smart-dropdown/index.html",
+    "precache-manifest.5f84d84db3ee10215098e15d2c48db1e.js": "/react-smart-dropdown/precache-manifest.5f84d84db3ee10215098e15d2c48db1e.js",
+    "service-worker.js": "/react-smart-dropdown/service-worker.js",
+    "static/js/2.43608e7c.chunk.js.LICENSE.txt": "/react-smart-dropdown/static/js/2.43608e7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.135da360.js",
+    "static/js/2.43608e7c.chunk.js",
+    "static/js/main.ba213562.chunk.js"
+  ]
+}

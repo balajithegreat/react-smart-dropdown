@@ -1,0 +1,71 @@
+@media only screen and (min-width: 768px) {
+    .project-holder {
+        padding: 8rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .project-holder {
+        padding: 3rem;
+    }
+}
+
+.component-holder {
+    padding: 2rem;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.select-holder {
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 8" width="30"><path fill="%23d1d1d1" d="M0,0l6,8l6-8"/></svg>') center right no-repeat;
+    padding-right: 3.0rem;
+    border: 0.1rem solid #d1d1d1;
+    border-radius: .4rem;
+    box-shadow: none;
+    box-sizing: inherit;
+    height: 3.8rem;
+    padding: .6rem 1.0rem .7rem;
+    width: 300px;
+}
+
+.select-holder.active {
+    border-color: #9b4dca;
+    outline: 0;
+}
+
+.dropdown-content {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 10px;
+    position: absolute;
+    top: 60px;
+    width: 300px;
+}
+
+.list-item {
+    border-bottom: 0.1rem solid #d1d1d1;
+    padding: 5px 15px;
+}
+
+.search-input {
+    margin: 6px;
+    width: 288px !important;
+}
+
+.more-chip {
+    position: absolute;
+    bottom: 6px;
+    right: 0;
+}
+
+.dropdown-content.expanded {
+    max-height: 240px;
+    overflow-y: scroll;
+}
+
+.add-button {
+    padding: 5px;
+    height: 25px;
+    line-height: 10px;
+}
